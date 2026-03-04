@@ -3,8 +3,8 @@ import "./globals.css";
 import { ReactQueryProvider } from "@/components/ReactQueryProvider";
 
 export const metadata: Metadata = {
-  title: "o-mohamed-mmb-hr-system",
-  description: "Next.js app with TypeScript and Tailwind CSS",
+  title: "Syntera - Modern HR Management System",
+  description: "Streamline your HR operations with our modern employee management system. Track performance, manage teams, and boost productivity.",
 };
 
 export default function RootLayout({
